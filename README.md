@@ -30,7 +30,7 @@ Display a single page with the following elements:
 3. Use a green color palette for active campaigns and a red color palette for inactive campaigns.
 
 ### Testing the Application:
-1. Implement a global method called ‘addCampaigns’ that accepts an array of campaigns and renders them in the application.
+1. Implement a global method called `addCampaigns` that accepts an array of campaigns and renders them in the application.
 2. This method will be called from the browser’s JavaScript console for testing purposes.
 3. Ensure the method can be called multiple times, with new campaigns being added to the existing list.
 
